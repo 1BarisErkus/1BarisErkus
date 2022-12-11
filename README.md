@@ -12,7 +12,7 @@ While (!isSuccess){
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1BarisErkus&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"></p><br/>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=1BarisErkus&theme=highcontrast&hide_border=true"></p><br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1BarisErkus&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1BarisErkus&langs_count=6&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></p>
 
 <h1 align="center">🏆 GitHub Trophies </h1>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=1BarisErkus&theme=radical&no-frame=false&no-bg=true&margin-w=4"></p>
